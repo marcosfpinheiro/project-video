@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marcosfpinheiro/project-video/issues"
   },
-  "homepage": "https://github.com/marcosfpinheiro/project-video#readme"
+  "homepage": "https://github.com/marcosfpinheiro/project-video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
