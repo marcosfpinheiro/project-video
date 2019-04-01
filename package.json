@@ -1,0 +1,19 @@
+{
+  "name": "project-video",
+  "version": "1.0.0",
+  "description": "Project for learning some technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosfpinheiro/project-video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosfpinheiro/project-video/issues"
+  },
+  "homepage": "https://github.com/marcosfpinheiro/project-video#readme"
+}
