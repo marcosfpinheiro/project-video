@@ -1,4 +1,3 @@
-//teste
 const readline = require('readline-sync')
 const robots = {
 	input: require('./robots/input.js'),	
